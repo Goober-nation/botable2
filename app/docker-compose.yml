@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  telegram-bot:
+    # This is the corrected line:
+    build: .
+    container_name: daha-telegram-bot
+    restart: unless-stopped
+    environment:
+      - BOT_TOKEN=${BOT_TOKEN}
+      - WEBHOOK_URL=${WEBHOOK_URL}
+      - USER_DATA_API_ENDPOINT=${USER_DATA_API_ENDPOINT}
+      - API_TOKEN=${API_TOKEN}
+      - ADMIN_USER_IDS=${ADMIN_USER_IDS}
+    volumes:
+      - ./exports:/app/exports
+      - ./logs:/app/logs
+    ports:
+      - "8080:8080"
+    networks:
+      - bot-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+networks:
+  bot-network:
+    driver: bridge
+
+# The "volumes" top-level key is for named volumes,
+# but you are using bind mounts, so this section can be removed
+# unless you plan to use named volumes later.
+# It is kept here for clarity but is not strictly necessary for your current setup.
+volumes:
+  exports:
+  logs:
+
