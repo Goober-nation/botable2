@@ -1,0 +1,984 @@
+2025-06-29 14:09:58,205 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/getMe "HTTP/1.1 200 OK"
+2025-06-29 14:09:58,208 - __main__ - INFO - PTB приложение инициализировано.
+2025-06-29 14:09:58,274 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/setWebhook "HTTP/1.1 200 OK"
+2025-06-29 14:09:58,275 - __main__ - INFO - Webhook установлен на: https://ae00-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-06-29 14:09:58,275 - telegram.ext.Application - INFO - Application started
+2025-06-29 14:09:58,276 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-06-29 14:09:58,277 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-06-29 14:09:58,306 - data.user_storage - INFO - Создан новый пользователь: 1036822116
+2025-06-29 14:09:58,400 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 14:09:58,564 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 14:10:15,772 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 14:10:44,327 - __main__ - INFO - Остановка PTB приложения...
+2025-06-29 14:10:44,328 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-29 14:10:44,329 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-29 14:10:44,528 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-29 14:10:44,529 - __main__ - INFO - PTB приложение остановлено.
+2025-06-29 14:11:01,102 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/getMe "HTTP/1.1 200 OK"
+2025-06-29 14:11:01,106 - __main__ - INFO - PTB приложение инициализировано.
+2025-06-29 14:11:01,169 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/setWebhook "HTTP/1.1 200 OK"
+2025-06-29 14:11:01,170 - __main__ - INFO - Webhook установлен на: https://ae00-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-06-29 14:11:01,171 - telegram.ext.Application - INFO - Application started
+2025-06-29 14:11:01,172 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-06-29 14:11:01,172 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-06-29 17:06:13,254 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/getMe "HTTP/1.1 200 OK"
+2025-06-29 17:06:13,260 - __main__ - INFO - PTB приложение инициализировано.
+2025-06-29 17:06:13,371 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/setWebhook "HTTP/1.1 200 OK"
+2025-06-29 17:06:13,372 - __main__ - INFO - Webhook установлен на: https://ae00-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-06-29 17:06:13,373 - telegram.ext.Application - INFO - Application started
+2025-06-29 17:06:13,374 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-06-29 17:06:13,374 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-06-29 17:11:33,353 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/getMe "HTTP/1.1 200 OK"
+2025-06-29 17:11:33,358 - __main__ - INFO - PTB приложение инициализировано.
+2025-06-29 17:11:33,452 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/setWebhook "HTTP/1.1 200 OK"
+2025-06-29 17:11:33,454 - __main__ - INFO - Webhook установлен на: https://e204-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-06-29 17:11:33,455 - telegram.ext.Application - INFO - Application started
+2025-06-29 17:11:33,457 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-06-29 17:11:33,457 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-06-29 17:11:33,509 - data.user_storage - INFO - Создан новый пользователь: 1036822116
+2025-06-29 17:11:33,936 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 17:12:20,187 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 17:12:21,927 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:12:22,014 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:12:23,414 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:12:23,418 - data.user_storage - INFO - Добавлен фильтр subjects:Робототехника для пользователя 1036822116
+2025-06-29 17:12:23,507 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:12:23,982 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:12:23,983 - data.user_storage - INFO - Добавлен фильтр subjects:Наука для пользователя 1036822116
+2025-06-29 17:12:24,076 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:12:24,504 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:12:24,506 - data.user_storage - INFO - Добавлен фильтр subjects:Кибербезопасность для пользователя 1036822116
+2025-06-29 17:12:24,596 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:12:25,985 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:12:26,108 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:12:26,953 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:12:27,041 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:12:27,046 - bot.handlers - INFO - Пользователь 1036822116 сохранил фильтры, запускаем упаковку данных
+2025-06-29 17:12:27,057 - bot.handlers - INFO - Упаковка данных пользователя 1036822116 завершена: Локально: ✅, API: ❌
+2025-06-29 17:12:27,144 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 17:12:27,243 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 17:12:27,331 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 17:12:27,450 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 17:12:27,590 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 17:12:27,742 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:22:23,648 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 17:26:45,988 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 17:26:49,417 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 17:26:51,127 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:26:51,223 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:26:54,618 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:26:54,619 - data.user_storage - INFO - Добавлен фильтр subjects:Искусственный интеллект для пользователя 1036822116
+2025-06-29 17:26:54,816 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:26:56,676 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:26:56,679 - data.user_storage - INFO - Удален фильтр subjects:Кибербезопасность для пользователя 1036822116
+2025-06-29 17:26:56,830 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:26:57,442 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:26:57,444 - data.user_storage - INFO - Удален фильтр subjects:Наука для пользователя 1036822116
+2025-06-29 17:26:57,590 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:00,538 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:00,540 - data.user_storage - INFO - Удален фильтр subjects:Робототехника для пользователя 1036822116
+2025-06-29 17:27:00,625 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:01,681 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:01,814 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:03,509 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:03,828 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:05,778 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:05,856 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:06,987 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:07,081 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:09,239 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:09,242 - data.user_storage - INFO - Добавлен фильтр difficulty:Начальный для пользователя 1036822116
+2025-06-29 17:27:09,329 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:10,930 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:11,014 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:11,869 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:11,963 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:16,686 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:16,688 - data.user_storage - INFO - Добавлен фильтр grade:10 для пользователя 1036822116
+2025-06-29 17:27:16,780 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:17,310 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:17,400 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:18,331 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:18,425 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:18,428 - bot.handlers - INFO - Пользователь 1036822116 сохранил фильтры, запускаем упаковку данных
+2025-06-29 17:27:18,453 - bot.handlers - INFO - Упаковка данных пользователя 1036822116 завершена: Локально: ✅, API: ❌
+2025-06-29 17:27:18,574 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:25,935 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 17:27:27,159 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:27,247 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:28,480 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:28,482 - data.user_storage - INFO - Добавлен фильтр grade:9 для пользователя 1036822116
+2025-06-29 17:27:28,571 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:29,377 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:29,379 - data.user_storage - INFO - Удален фильтр grade:10 для пользователя 1036822116
+2025-06-29 17:27:29,503 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:31,276 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:31,279 - data.user_storage - INFO - Удален фильтр grade:9 для пользователя 1036822116
+2025-06-29 17:27:31,390 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:32,526 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:32,620 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:33,642 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:33,736 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:33,739 - bot.handlers - INFO - Пользователь 1036822116 сохранил фильтры, запускаем упаковку данных
+2025-06-29 17:27:33,756 - bot.handlers - INFO - Упаковка данных пользователя 1036822116 завершена: Локально: ✅, API: ❌
+2025-06-29 17:27:33,837 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:37,964 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 17:27:39,263 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:39,363 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:40,383 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:40,384 - data.user_storage - INFO - Удален фильтр subjects:Искусственный интеллект для пользователя 1036822116
+2025-06-29 17:27:40,474 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:41,710 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:42,020 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:43,383 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:43,487 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:44,891 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:44,893 - data.user_storage - INFO - Добавлен фильтр grade:10 для пользователя 1036822116
+2025-06-29 17:27:44,992 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:45,833 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:45,995 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:49,785 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:49,962 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:51,010 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:51,013 - data.user_storage - INFO - Удален фильтр difficulty:Начальный для пользователя 1036822116
+2025-06-29 17:27:51,190 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:51,902 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:52,039 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:52,694 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 17:27:52,792 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:27:52,798 - bot.handlers - INFO - Пользователь 1036822116 сохранил фильтры, запускаем упаковку данных
+2025-06-29 17:27:52,809 - bot.handlers - INFO - Упаковка данных пользователя 1036822116 завершена: Локально: ✅, API: ❌
+2025-06-29 17:27:52,923 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 17:27:53,035 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 17:27:53,163 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 17:27:53,252 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 17:27:53,350 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 17:27:53,441 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 17:27:53,536 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 17:27:53,632 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 17:27:53,723 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 17:29:17,328 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 18:36:14,692 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 20:54:46,971 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/getMe "HTTP/1.1 200 OK"
+2025-06-29 20:54:46,977 - __main__ - INFO - PTB приложение инициализировано.
+2025-06-29 20:54:47,062 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/setWebhook "HTTP/1.1 200 OK"
+2025-06-29 20:54:47,064 - __main__ - INFO - Webhook установлен на: https://7b6e-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-06-29 20:54:47,065 - telegram.ext.Application - INFO - Application started
+2025-06-29 20:54:47,067 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-06-29 20:54:47,067 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-06-29 20:54:57,470 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:16:03,521 - data.user_storage - INFO - Создан новый пользователь: 1142820868
+2025-06-29 21:16:03,780 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:16:06,429 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:16:08,411 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 21:16:08,538 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 21:16:10,055 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 21:16:10,135 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 21:16:11,555 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 21:16:11,687 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 21:16:14,677 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:16:18,510 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 21:16:18,596 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 21:16:20,115 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 21:16:20,117 - data.user_storage - INFO - Добавлен фильтр grade:9 для пользователя 1142820868
+2025-06-29 21:16:20,209 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 21:16:20,836 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 21:16:20,838 - data.user_storage - INFO - Добавлен фильтр grade:10 для пользователя 1142820868
+2025-06-29 21:16:20,922 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 21:16:21,927 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 21:16:21,928 - data.user_storage - INFO - Добавлен фильтр grade:11 для пользователя 1142820868
+2025-06-29 21:16:22,010 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 21:16:23,166 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 21:16:23,254 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 21:16:25,535 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 21:16:25,612 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 21:16:26,989 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 21:16:26,991 - data.user_storage - INFO - Добавлен фильтр difficulty:Начальный для пользователя 1142820868
+2025-06-29 21:16:27,087 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 21:16:30,525 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 21:16:30,527 - data.user_storage - INFO - Добавлен фильтр difficulty:Средний для пользователя 1142820868
+2025-06-29 21:16:30,617 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 21:16:32,120 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 21:16:32,218 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 21:16:34,642 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 21:16:34,723 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 21:16:34,724 - bot.handlers - INFO - Пользователь 1142820868 сохранил фильтры, запускаем упаковку данных
+2025-06-29 21:16:34,732 - bot.handlers - INFO - Упаковка данных пользователя 1142820868 завершена: Локально: ✅, API: ❌
+2025-06-29 21:16:34,839 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:16:34,944 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:16:35,049 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:16:35,160 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:16:35,308 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:16:35,452 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:16:35,594 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 21:20:54,750 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:20:57,300 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 21:20:57,382 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 21:20:57,384 - bot.handlers - INFO - Пользователь 1142820868 сохранил фильтры, запускаем упаковку данных
+2025-06-29 21:20:57,407 - bot.handlers - INFO - Упаковка данных пользователя 1142820868 завершена: Локально: ✅, API: ❌
+2025-06-29 21:20:57,487 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:20:57,564 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:20:57,644 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:20:57,722 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:20:57,801 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:20:57,881 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:20:57,960 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 21:31:09,872 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:31:14,107 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:31:16,359 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 21:31:16,445 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 21:31:17,827 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 21:31:17,964 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 21:31:19,059 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-29 21:31:19,178 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-06-29 21:31:19,181 - bot.handlers - INFO - Пользователь 1142820868 сохранил фильтры, запускаем упаковку данных
+2025-06-29 21:31:19,189 - bot.handlers - INFO - Упаковка данных пользователя 1142820868 завершена: Локально: ✅, API: ❌
+2025-06-29 21:31:19,285 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:31:19,381 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:31:19,469 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:31:19,556 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:31:19,651 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:31:19,732 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/sendMessage "HTTP/1.1 200 OK"
+2025-06-29 21:31:19,814 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:40:21,716 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/getMe "HTTP/1.1 200 OK"
+2025-07-02 19:40:21,719 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-02 19:40:21,805 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/setWebhook "HTTP/1.1 200 OK"
+2025-07-02 19:40:21,805 - __main__ - INFO - Webhook установлен на: https://7b6e-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-02 19:40:21,806 - telegram.ext.Application - INFO - Application started
+2025-07-02 19:40:21,806 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-02 19:40:21,806 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-02 19:40:52,036 - __main__ - INFO - Остановка PTB приложения...
+2025-07-02 19:40:52,037 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-02 19:40:52,037 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-02 19:40:52,258 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-02 19:40:52,259 - __main__ - INFO - PTB приложение остановлено.
+2025-07-02 19:40:53,597 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/getMe "HTTP/1.1 200 OK"
+2025-07-02 19:40:53,600 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-02 19:40:53,706 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7798301106:AAHuRaZWz5CtFHPqxMnTYQXgSbP6jlggy8I/setWebhook "HTTP/1.1 200 OK"
+2025-07-02 19:40:53,708 - __main__ - INFO - Webhook установлен на: https://2b3b-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-02 19:40:53,708 - telegram.ext.Application - INFO - Application started
+2025-07-02 19:40:53,709 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-02 19:40:53,709 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-02 19:44:41,317 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-02 19:44:41,320 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-02 19:44:41,414 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-02 19:44:41,415 - __main__ - INFO - Webhook установлен на: https://2b3b-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-02 19:44:41,416 - telegram.ext.Application - INFO - Application started
+2025-07-02 19:44:41,416 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-02 19:44:41,416 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-02 19:44:44,991 - data.user_storage - INFO - Создан новый пользователь: 1036822116
+2025-07-02 19:44:45,077 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:44:48,620 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:44:54,428 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:44:54,514 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:44:55,411 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:44:55,412 - data.user_storage - INFO - Добавлен фильтр subjects:Наука для пользователя 1036822116
+2025-07-02 19:44:55,487 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:44:55,991 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:44:55,992 - data.user_storage - INFO - Добавлен фильтр subjects:Кибербезопасность для пользователя 1036822116
+2025-07-02 19:44:56,068 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:44:56,452 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:44:56,453 - data.user_storage - INFO - Добавлен фильтр subjects:Программирование для пользователя 1036822116
+2025-07-02 19:44:56,539 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:44:56,912 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:44:56,914 - data.user_storage - INFO - Добавлен фильтр subjects:Предпринимательство для пользователя 1036822116
+2025-07-02 19:44:57,031 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:45:00,775 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:45:00,775 - data.user_storage - INFO - Добавлен фильтр subjects:Финансовая грамотность для пользователя 1036822116
+2025-07-02 19:45:00,882 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:45:01,363 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:45:01,440 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:45:02,619 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:45:02,720 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:45:02,721 - bot.handlers - INFO - Пользователь 1036822116 сохранил фильтры, запускаем упаковку данных
+2025-07-02 19:45:02,724 - bot.handlers - INFO - Упаковка данных пользователя 1036822116 завершена: Локально: ✅, API: ❌
+2025-07-02 19:45:02,833 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:45:02,944 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:45:03,039 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:45:03,129 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:45:03,212 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:45:03,298 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:45:03,376 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:45:03,458 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:45:03,546 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:45:03,637 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:45:32,201 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-02 19:45:32,203 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-02 19:45:32,268 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-02 19:45:32,269 - __main__ - INFO - Webhook установлен на: https://2b3b-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-02 19:45:32,270 - telegram.ext.Application - INFO - Application started
+2025-07-02 19:45:32,270 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-02 19:45:32,270 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-02 19:45:50,520 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:45:50,692 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:46:24,295 - data.user_storage - INFO - Создан новый пользователь: 1036822116
+2025-07-02 19:46:24,448 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:46:26,022 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:46:26,098 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:46:27,061 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:46:27,062 - data.user_storage - INFO - Добавлен фильтр subjects:Искусственный интеллект для пользователя 1036822116
+2025-07-02 19:46:27,137 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:46:27,538 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:46:27,539 - data.user_storage - INFO - Добавлен фильтр subjects:Наука для пользователя 1036822116
+2025-07-02 19:46:27,615 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:46:27,989 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:46:27,989 - data.user_storage - INFO - Добавлен фильтр subjects:Кибербезопасность для пользователя 1036822116
+2025-07-02 19:46:28,068 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:46:31,208 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:46:31,209 - data.user_storage - INFO - Добавлен фильтр subjects:Программирование для пользователя 1036822116
+2025-07-02 19:46:31,294 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:46:34,413 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:46:34,414 - data.user_storage - INFO - Добавлен фильтр subjects:Робототехника для пользователя 1036822116
+2025-07-02 19:46:34,489 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:46:34,961 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:46:34,962 - data.user_storage - INFO - Добавлен фильтр subjects:Финансовая грамотность для пользователя 1036822116
+2025-07-02 19:46:35,046 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:46:36,221 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:46:36,221 - data.user_storage - INFO - Добавлен фильтр subjects:Предпринимательство для пользователя 1036822116
+2025-07-02 19:46:36,307 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:46:36,656 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:46:36,657 - data.user_storage - INFO - Удален фильтр subjects:Предпринимательство для пользователя 1036822116
+2025-07-02 19:46:36,736 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:46:36,885 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:46:37,011 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:46:40,674 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:46:40,783 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:46:40,784 - bot.handlers - INFO - Пользователь 1036822116 сохранил фильтры, запускаем упаковку данных
+2025-07-02 19:46:40,789 - bot.handlers - INFO - Упаковка данных пользователя 1036822116 завершена: Локально: ✅, API: ❌
+2025-07-02 19:46:40,893 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:46:40,985 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:46:41,092 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:46:41,196 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:46:41,280 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:46:41,395 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:46:41,515 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:46:41,649 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:46:41,787 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:46:41,992 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:48:29,138 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-02 19:48:29,140 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-02 19:48:29,201 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-02 19:48:29,202 - __main__ - INFO - Webhook установлен на: https://2b3b-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-02 19:48:29,203 - telegram.ext.Application - INFO - Application started
+2025-07-02 19:48:29,203 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-02 19:48:29,203 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-02 19:48:31,640 - data.user_storage - INFO - Создан новый пользователь: 1036822116
+2025-07-02 19:48:31,847 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:48:32,954 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:48:33,039 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:48:34,325 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:48:34,326 - data.user_storage - INFO - Добавлен фильтр subjects:Кибербезопасность для пользователя 1036822116
+2025-07-02 19:48:34,418 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:48:35,057 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:48:35,058 - data.user_storage - INFO - Добавлен фильтр subjects:Наука для пользователя 1036822116
+2025-07-02 19:48:35,149 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:48:37,027 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:48:37,103 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:48:37,735 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:48:37,812 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:48:37,814 - bot.handlers - INFO - Пользователь 1036822116 сохранил фильтры, запускаем упаковку данных
+2025-07-02 19:48:37,816 - bot.handlers - INFO - Упаковка данных пользователя 1036822116 завершена: Локально: ✅, API: ❌
+2025-07-02 19:48:37,904 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:48:37,988 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:48:38,076 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:48:38,157 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:48:38,246 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:48:38,356 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:49:53,368 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-02 19:49:53,372 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-02 19:49:53,439 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-02 19:49:53,441 - __main__ - INFO - Webhook установлен на: https://2b3b-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-02 19:49:53,442 - telegram.ext.Application - INFO - Application started
+2025-07-02 19:49:53,442 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-02 19:49:53,442 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-02 19:49:57,355 - data.user_storage - INFO - Создан новый пользователь: 1036822116
+2025-07-02 19:49:57,454 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:49:58,649 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:49:58,730 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:50:00,090 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:50:00,091 - data.user_storage - INFO - Добавлен фильтр subjects:Программирование для пользователя 1036822116
+2025-07-02 19:50:00,199 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:50:00,942 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:50:01,048 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:50:01,744 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 19:50:01,906 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 19:50:01,907 - bot.handlers - INFO - Пользователь 1036822116 сохранил фильтры, запускаем упаковку данных
+2025-07-02 19:50:01,910 - bot.handlers - INFO - Упаковка данных пользователя 1036822116 завершена: Локально: ✅, API: ❌
+2025-07-02 19:50:02,067 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:50:02,215 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:50:02,385 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 19:50:02,560 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 20:03:34,674 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-02 20:03:34,677 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-02 20:03:34,750 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-02 20:03:34,751 - __main__ - INFO - Webhook установлен на: https://2b3b-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-02 20:03:34,752 - telegram.ext.Application - INFO - Application started
+2025-07-02 20:03:34,752 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-02 20:03:34,752 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-02 20:04:40,567 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 20:04:43,399 - data.user_storage - INFO - Создан новый пользователь: 1036822116
+2025-07-02 20:04:43,480 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 20:04:43,638 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 20:04:43,792 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 20:04:43,947 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 20:05:05,149 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 20:05:06,463 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 20:05:10,423 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 20:05:10,500 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 20:05:11,283 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 20:05:11,284 - data.user_storage - INFO - Добавлен фильтр subjects:Финансовая грамотность для пользователя 1036822116
+2025-07-02 20:05:11,397 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 20:05:11,926 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 20:05:12,045 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 20:05:12,557 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 20:05:12,687 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 20:05:12,688 - bot.handlers - INFO - Пользователь 1036822116 сохранил фильтры, запускаем упаковку данных
+2025-07-02 20:05:12,924 - bot.handlers - INFO - Упаковка данных пользователя 1036822116 завершена: Локально: ✅, API: ❌
+2025-07-02 20:05:12,925 - bot.handlers - ERROR - Ошибка поиска курсов: CourseFilter.filter_courses() missing 1 required positional argument: 'filters'
+2025-07-02 20:05:13,142 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 21:48:01,226 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-02 21:48:01,231 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-02 21:48:01,296 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-02 21:48:01,298 - __main__ - INFO - Webhook установлен на: https://2b3b-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-02 21:48:01,299 - telegram.ext.Application - INFO - Application started
+2025-07-02 21:48:01,300 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-02 21:48:01,301 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-02 21:48:05,442 - data.user_storage - INFO - Создан новый пользователь: 1036822116
+2025-07-02 21:48:05,522 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 21:48:06,631 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 21:48:06,710 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 21:48:09,225 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 21:48:09,227 - data.user_storage - INFO - Добавлен фильтр subjects:Искусственный интеллект для пользователя 1036822116
+2025-07-02 21:48:09,352 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 21:48:09,997 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 21:48:10,000 - data.user_storage - INFO - Добавлен фильтр subjects:Наука для пользователя 1036822116
+2025-07-02 21:48:10,083 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 21:48:11,220 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 21:48:11,305 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 21:48:12,131 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 21:48:12,224 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 21:48:12,226 - bot.handlers - INFO - Пользователь 1036822116 сохранил фильтры, запускаем упаковку данных
+2025-07-02 21:48:12,396 - bot.handlers - INFO - Упаковка данных пользователя 1036822116 завершена: Локально: ✅, API: ❌
+2025-07-02 21:48:12,399 - bot.handlers - ERROR - Ошибка поиска курсов: CourseFilter.filter_courses() missing 1 required positional argument: 'filters'
+2025-07-02 21:48:12,479 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 21:50:21,198 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-02 21:50:21,202 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-02 21:50:21,262 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-02 21:50:21,264 - __main__ - INFO - Webhook установлен на: https://2b3b-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-02 21:50:21,265 - telegram.ext.Application - INFO - Application started
+2025-07-02 21:50:21,265 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-02 21:50:21,266 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-02 21:50:21,969 - __main__ - INFO - Остановка PTB приложения...
+2025-07-02 21:50:21,970 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-02 21:50:21,970 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-02 21:50:22,030 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-02 21:50:22,032 - __main__ - INFO - PTB приложение остановлено.
+2025-07-02 21:50:24,539 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-02 21:50:24,543 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-02 21:50:24,626 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-02 21:50:24,628 - __main__ - INFO - Webhook установлен на: https://2b3b-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-02 21:50:24,629 - telegram.ext.Application - INFO - Application started
+2025-07-02 21:50:24,630 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-02 21:50:24,630 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-02 21:50:29,208 - data.user_storage - INFO - Создан новый пользователь: 1036822116
+2025-07-02 21:50:29,297 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 21:50:33,751 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 21:50:33,835 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 21:50:34,393 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 21:50:34,394 - data.user_storage - INFO - Добавлен фильтр difficulty:Средний для пользователя 1036822116
+2025-07-02 21:50:34,471 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 21:50:35,350 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 21:50:35,428 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 21:50:35,883 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 21:50:35,964 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 21:50:35,966 - bot.handlers - INFO - Пользователь 1036822116 сохранил фильтры, запускаем упаковку данных
+2025-07-02 21:50:36,141 - bot.handlers - INFO - Упаковка данных пользователя 1036822116 завершена: Локально: ✅, API: ❌
+2025-07-02 21:50:36,143 - data.courses - ERROR - Неожиданная ошибка при фильтрации курсов: 'dict' object has no attribute '_convert_filters_to_api_params'
+2025-07-02 21:50:36,278 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 21:58:36,939 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-02 21:58:36,946 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-02 21:58:37,008 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-02 21:58:37,010 - __main__ - INFO - Webhook установлен на: https://2b3b-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-02 21:58:37,011 - telegram.ext.Application - INFO - Application started
+2025-07-02 21:58:37,014 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-02 21:58:37,015 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-02 21:58:40,500 - data.user_storage - INFO - Создан новый пользователь: 1036822116
+2025-07-02 21:58:40,586 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 21:58:41,608 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 21:58:41,708 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 21:58:42,183 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 21:58:42,186 - data.user_storage - INFO - Добавлен фильтр difficulty:Средний для пользователя 1036822116
+2025-07-02 21:58:42,279 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 21:58:43,140 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 21:58:43,255 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 21:58:43,836 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 21:58:43,986 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 21:58:43,989 - bot.handlers - INFO - Пользователь 1036822116 сохранил фильтры, запускаем упаковку данных
+2025-07-02 21:58:44,158 - bot.handlers - INFO - Упаковка данных пользователя 1036822116 завершена: Локально: ✅, API: ❌
+2025-07-02 21:58:44,159 - data.courses - ERROR - Неожиданная ошибка при фильтрации курсов: 'dict' object has no attribute '_convert_filters_to_api_params'
+2025-07-02 21:58:44,281 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 21:59:46,938 - __main__ - INFO - Остановка PTB приложения...
+2025-07-02 21:59:46,938 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-02 21:59:46,940 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-02 21:59:47,087 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-02 21:59:47,089 - __main__ - INFO - PTB приложение остановлено.
+2025-07-02 22:00:12,560 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-02 22:00:12,566 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-02 22:00:12,630 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-02 22:00:12,634 - __main__ - INFO - Webhook установлен на: https://2b3b-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-02 22:00:12,634 - telegram.ext.Application - INFO - Application started
+2025-07-02 22:00:12,635 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-02 22:00:12,636 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-02 22:00:12,839 - __main__ - INFO - Остановка PTB приложения...
+2025-07-02 22:00:12,840 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-02 22:00:12,841 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-02 22:00:12,908 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-02 22:00:12,910 - __main__ - INFO - PTB приложение остановлено.
+2025-07-02 22:00:15,374 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-02 22:00:15,379 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-02 22:00:15,441 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-02 22:00:15,443 - __main__ - INFO - Webhook установлен на: https://2b3b-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-02 22:00:15,444 - telegram.ext.Application - INFO - Application started
+2025-07-02 22:00:15,445 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-02 22:00:15,445 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-02 22:00:26,616 - data.user_storage - INFO - Создан новый пользователь: 1036822116
+2025-07-02 22:00:26,779 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 22:00:34,522 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 22:00:34,605 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:00:35,063 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 22:00:35,065 - data.user_storage - INFO - Добавлен фильтр difficulty:Средний для пользователя 1036822116
+2025-07-02 22:00:35,151 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:00:35,917 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 22:00:36,003 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:00:36,462 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 22:00:36,540 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:00:36,542 - bot.handlers - INFO - Пользователь 1036822116 сохранил фильтры, запускаем упаковку данных
+2025-07-02 22:00:36,711 - bot.handlers - INFO - Упаковка данных пользователя 1036822116 завершена: Локально: ✅, API: ❌
+2025-07-02 22:00:36,712 - bot.handlers - INFO - {'username': 'Timoxa_who', 'user_id': 1036822116, 'subjects': set(), 'difficulty': {'Средний'}, 'grade': set(), 'created_at': '2025-07-02T22:00:26.616775', 'last_updated': '2025-07-02T22:00:36.465100'}
+2025-07-02 22:00:36,712 - data.courses - ERROR - Неожиданная ошибка при фильтрации курсов: 'dict' object has no attribute '_convert_filters_to_api_params'
+2025-07-02 22:00:36,786 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:15:26,639 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-02 22:15:26,643 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-02 22:15:26,706 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-02 22:15:26,708 - __main__ - INFO - Webhook установлен на: https://2b3b-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-02 22:15:26,709 - telegram.ext.Application - INFO - Application started
+2025-07-02 22:15:26,710 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-02 22:15:26,711 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-02 22:15:28,016 - __main__ - INFO - Остановка PTB приложения...
+2025-07-02 22:15:28,017 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-02 22:15:28,018 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-02 22:15:28,080 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-02 22:15:28,082 - __main__ - INFO - PTB приложение остановлено.
+2025-07-02 22:15:34,186 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-02 22:15:34,190 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-02 22:15:34,255 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-02 22:15:34,256 - __main__ - INFO - Webhook установлен на: https://2b3b-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-02 22:15:34,257 - telegram.ext.Application - INFO - Application started
+2025-07-02 22:15:34,258 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-02 22:15:34,259 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-02 22:15:34,955 - data.user_storage - INFO - Создан новый пользователь: 1036822116
+2025-07-02 22:15:35,088 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 22:15:36,001 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 22:15:36,087 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:15:36,709 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 22:15:36,710 - data.user_storage - INFO - Добавлен фильтр difficulty:Средний для пользователя 1036822116
+2025-07-02 22:15:36,943 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:15:37,493 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 22:15:37,575 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:15:38,064 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 22:15:38,140 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:15:38,142 - bot.handlers - INFO - Пользователь 1036822116 сохранил фильтры, запускаем упаковку данных
+2025-07-02 22:15:38,297 - bot.handlers - INFO - Упаковка данных пользователя 1036822116 завершена: Локально: ✅, API: ❌
+2025-07-02 22:15:38,299 - data.courses - ERROR - Неожиданная ошибка при фильтрации курсов: 'dict' object has no attribute '_convert_filters_to_api_params'
+2025-07-02 22:15:38,376 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:20:26,527 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-02 22:20:26,531 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-02 22:20:26,596 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-02 22:20:26,598 - __main__ - INFO - Webhook установлен на: https://2b3b-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-02 22:20:26,600 - telegram.ext.Application - INFO - Application started
+2025-07-02 22:20:26,601 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-02 22:20:26,603 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-02 22:20:50,321 - __main__ - INFO - Остановка PTB приложения...
+2025-07-02 22:20:50,322 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-02 22:20:50,323 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-02 22:20:50,456 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-02 22:20:50,458 - __main__ - INFO - PTB приложение остановлено.
+2025-07-02 22:20:53,073 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-02 22:20:53,078 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-02 22:20:53,171 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-02 22:20:53,174 - __main__ - INFO - Webhook установлен на: https://2b3b-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-02 22:20:53,175 - telegram.ext.Application - INFO - Application started
+2025-07-02 22:20:53,176 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-02 22:20:53,176 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-02 22:20:55,315 - data.user_storage - INFO - Создан новый пользователь: 1036822116
+2025-07-02 22:20:55,402 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 22:20:56,310 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 22:20:56,387 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:20:56,895 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 22:20:56,898 - data.user_storage - INFO - Добавлен фильтр difficulty:Средний для пользователя 1036822116
+2025-07-02 22:20:56,976 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:20:57,707 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 22:20:57,785 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:20:58,281 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 22:20:58,376 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:20:58,378 - bot.handlers - INFO - Пользователь 1036822116 сохранил фильтры, запускаем упаковку данных
+2025-07-02 22:20:58,545 - bot.handlers - INFO - Упаковка данных пользователя 1036822116 завершена: Локально: ✅, API: ❌
+2025-07-02 22:20:58,547 - data.courses - INFO - Запрос курсов с параметрами: {'level': 'INTERMEDIATE'}
+2025-07-02 22:20:58,548 - data.courses - ERROR - Неожиданная ошибка при фильтрации курсов: 'dict' object has no attribute 'api_client'
+2025-07-02 22:20:58,629 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:54:20,186 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-02 22:54:20,190 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-02 22:54:20,255 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-02 22:54:20,257 - __main__ - INFO - Webhook установлен на: https://2b3b-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-02 22:54:20,258 - telegram.ext.Application - INFO - Application started
+2025-07-02 22:54:20,259 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-02 22:54:20,259 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-02 22:54:30,623 - __main__ - INFO - Остановка PTB приложения...
+2025-07-02 22:54:30,623 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-02 22:54:30,624 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-02 22:54:30,753 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-02 22:54:30,755 - __main__ - INFO - PTB приложение остановлено.
+2025-07-02 22:54:33,424 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-02 22:54:33,428 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-02 22:54:33,489 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-02 22:54:33,492 - __main__ - INFO - Webhook установлен на: https://2b3b-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-02 22:54:33,493 - telegram.ext.Application - INFO - Application started
+2025-07-02 22:54:33,494 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-02 22:54:33,495 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-02 22:54:37,184 - data.user_storage - INFO - Создан новый пользователь: 1036822116
+2025-07-02 22:54:37,260 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 22:54:38,459 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 22:54:38,536 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:54:39,162 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 22:54:39,165 - data.user_storage - INFO - Добавлен фильтр difficulty:Средний для пользователя 1036822116
+2025-07-02 22:54:39,260 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:54:40,297 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 22:54:40,377 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:54:41,076 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 22:54:41,177 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:54:41,180 - bot.handlers - INFO - Пользователь 1036822116 сохранил фильтры, запускаем упаковку данных
+2025-07-02 22:54:41,439 - bot.handlers - INFO - Упаковка данных пользователя 1036822116 завершена: Локально: ✅, API: ❌
+2025-07-02 22:54:41,440 - bot.handlers - ERROR - Ошибка поиска курсов: 'dict' object has no attribute '_is_api_available'
+2025-07-02 22:54:41,524 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:57:49,131 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-02 22:57:49,137 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-02 22:57:49,207 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-02 22:57:49,209 - __main__ - INFO - Webhook установлен на: https://2b3b-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-02 22:57:49,210 - telegram.ext.Application - INFO - Application started
+2025-07-02 22:57:49,212 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-02 22:57:49,214 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-02 22:57:55,441 - __main__ - INFO - Остановка PTB приложения...
+2025-07-02 22:57:55,442 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-02 22:57:55,442 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-02 22:57:55,570 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-02 22:57:55,573 - __main__ - INFO - PTB приложение остановлено.
+2025-07-02 22:57:58,121 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-02 22:57:58,128 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-02 22:57:58,190 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-02 22:57:58,192 - __main__ - INFO - Webhook установлен на: https://2b3b-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-02 22:57:58,194 - telegram.ext.Application - INFO - Application started
+2025-07-02 22:57:58,195 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-02 22:57:58,197 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-02 22:58:09,665 - data.user_storage - INFO - Создан новый пользователь: 1036822116
+2025-07-02 22:58:09,882 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-02 22:58:11,024 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 22:58:11,137 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:58:11,517 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 22:58:11,520 - data.user_storage - INFO - Добавлен фильтр difficulty:Средний для пользователя 1036822116
+2025-07-02 22:58:11,614 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:58:12,229 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 22:58:12,311 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:58:12,702 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02 22:58:12,813 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-02 22:58:12,815 - bot.handlers - INFO - Пользователь 1036822116 сохранил фильтры, запускаем упаковку данных
+2025-07-02 22:58:12,982 - bot.handlers - INFO - Упаковка данных пользователя 1036822116 завершена: Локально: ✅, API: ❌
+2025-07-02 22:58:12,983 - data.courses - INFO - Запрос курсов с параметрами: {'level': 'INTERMEDIATE'}
+2025-07-02 22:58:12,985 - data.courses - ERROR - Неожиданная ошибка при фильтрации курсов: 'dict' object has no attribute 'api_client'
+2025-07-02 22:58:13,074 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 09:49:30,731 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-03 09:49:30,733 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-03 09:49:30,808 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-03 09:49:30,809 - __main__ - INFO - Webhook установлен на: https://2b3b-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-03 09:49:30,809 - telegram.ext.Application - INFO - Application started
+2025-07-03 09:49:30,809 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-03 09:49:30,810 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-03 09:49:59,204 - __main__ - INFO - Остановка PTB приложения...
+2025-07-03 09:49:59,205 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-03 09:49:59,205 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-03 09:49:59,343 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-03 09:49:59,344 - __main__ - INFO - PTB приложение остановлено.
+2025-07-03 09:50:00,689 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-03 09:50:00,693 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-03 09:50:00,785 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-03 09:50:00,787 - __main__ - INFO - Webhook установлен на: https://3f14-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-03 09:50:00,788 - telegram.ext.Application - INFO - Application started
+2025-07-03 09:50:00,788 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-03 09:50:00,789 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-03 09:50:23,850 - data.user_storage - INFO - Создан новый пользователь: 1036822116
+2025-07-03 09:50:24,027 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-03 09:50:25,004 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 09:50:25,134 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 09:50:25,610 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 09:50:25,611 - data.user_storage - INFO - Добавлен фильтр difficulty:Средний для пользователя 1036822116
+2025-07-03 09:50:25,726 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 09:50:26,837 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 09:50:26,960 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 09:50:27,371 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 09:50:27,494 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 09:50:27,495 - bot.handlers - INFO - Пользователь 1036822116 сохранил фильтры, запускаем упаковку данных
+2025-07-03 09:50:27,659 - bot.handlers - INFO - Упаковка данных пользователя 1036822116 завершена: Локально: ✅, API: ❌
+2025-07-03 09:50:27,660 - data.courses - INFO - Запрос курсов с параметрами: {'level': 'INTERMEDIATE'}
+2025-07-03 09:50:27,660 - data.courses - ERROR - Неожиданная ошибка при фильтрации курсов: 'dict' object has no attribute 'api_client'
+2025-07-03 09:50:27,868 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 10:25:13,499 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-03 10:25:13,503 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-03 10:25:13,565 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-03 10:25:13,566 - __main__ - INFO - Webhook установлен на: https://3f14-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-03 10:25:13,566 - telegram.ext.Application - INFO - Application started
+2025-07-03 10:25:13,567 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-03 10:25:13,567 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-03 10:25:28,411 - data.user_storage - INFO - Создан новый пользователь: 1036822116
+2025-07-03 10:25:28,581 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-03 10:25:30,319 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 10:25:30,416 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 10:25:30,965 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 10:25:30,966 - data.user_storage - INFO - Добавлен фильтр difficulty:Средний для пользователя 1036822116
+2025-07-03 10:25:31,051 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 10:25:31,510 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 10:25:31,602 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 10:25:32,013 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 10:25:32,088 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 10:25:32,089 - bot.handlers - INFO - Пользователь 1036822116 сохранил фильтры, запускаем упаковку данных
+2025-07-03 10:25:32,240 - bot.handlers - INFO - Упаковка данных пользователя 1036822116 завершена: Локально: ✅, API: ❌
+2025-07-03 10:25:32,241 - data.courses - INFO - Запрос курсов с параметрами: {'level': 'INTERMEDIATE'}
+2025-07-03 10:25:32,241 - data.courses - ERROR - Неожиданная ошибка при фильтрации курсов: 'dict' object has no attribute 'api_client'
+2025-07-03 10:25:32,318 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 10:26:38,720 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-03 10:26:38,722 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-03 10:26:38,788 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-03 10:26:38,790 - __main__ - INFO - Webhook установлен на: https://3f14-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-03 10:26:38,790 - telegram.ext.Application - INFO - Application started
+2025-07-03 10:26:38,791 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-03 10:26:38,791 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-03 10:26:44,913 - __main__ - INFO - Остановка PTB приложения...
+2025-07-03 10:26:44,914 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-03 10:26:44,915 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-03 10:26:45,045 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-03 10:26:45,047 - __main__ - INFO - PTB приложение остановлено.
+2025-07-03 11:01:04,623 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-03 11:01:04,626 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-03 11:01:04,695 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-03 11:01:04,697 - __main__ - INFO - Webhook установлен на: https://3f14-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-03 11:01:04,698 - telegram.ext.Application - INFO - Application started
+2025-07-03 11:01:04,698 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-03 11:01:04,699 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-03 11:01:09,547 - data.user_storage - INFO - Создан новый пользователь: 1036822116
+2025-07-03 11:01:09,780 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-03 11:01:10,563 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 11:01:10,662 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 11:01:11,169 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 11:01:11,170 - data.user_storage - INFO - Добавлен фильтр difficulty:Средний для пользователя 1036822116
+2025-07-03 11:01:11,254 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 11:01:11,671 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 11:01:11,771 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 11:01:12,151 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 11:01:12,226 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 11:01:12,227 - bot.handlers - INFO - Пользователь 1036822116 сохранил фильтры, запускаем упаковку данных
+2025-07-03 11:01:12,384 - bot.handlers - INFO - Упаковка данных пользователя 1036822116 завершена: Локально: ✅, API: ❌
+2025-07-03 11:01:12,385 - data.courses - INFO - Запрос курсов с параметрами: {'level': 'INTERMEDIATE'}
+2025-07-03 11:01:12,386 - data.courses - ERROR - Неожиданная ошибка при фильтрации курсов: 'dict' object has no attribute 'api_client'
+2025-07-03 11:01:12,477 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 11:02:43,726 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-03 11:02:43,728 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-03 11:02:43,786 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-03 11:02:43,787 - __main__ - INFO - Webhook установлен на: https://3f14-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-03 11:02:43,788 - telegram.ext.Application - INFO - Application started
+2025-07-03 11:02:43,788 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-03 11:02:43,788 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-03 11:02:49,405 - __main__ - INFO - Остановка PTB приложения...
+2025-07-03 11:02:49,406 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-03 11:02:49,406 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-03 11:02:49,532 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-03 11:02:49,533 - __main__ - INFO - PTB приложение остановлено.
+2025-07-03 11:02:50,944 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-03 11:02:50,946 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-03 11:02:51,006 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-03 11:02:51,007 - __main__ - INFO - Webhook установлен на: https://3f14-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-03 11:02:51,008 - telegram.ext.Application - INFO - Application started
+2025-07-03 11:02:51,008 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-03 11:02:51,009 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-03 11:02:55,770 - data.user_storage - INFO - Создан новый пользователь: 1036822116
+2025-07-03 11:02:55,879 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-03 11:02:56,695 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 11:02:56,773 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 11:02:57,173 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 11:02:57,174 - data.user_storage - INFO - Добавлен фильтр difficulty:Средний для пользователя 1036822116
+2025-07-03 11:02:57,292 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 11:02:57,670 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 11:02:57,794 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 11:02:58,132 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 11:02:58,249 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 11:02:58,250 - bot.handlers - INFO - Пользователь 1036822116 сохранил фильтры, запускаем упаковку данных
+2025-07-03 11:02:58,395 - bot.handlers - INFO - Упаковка данных пользователя 1036822116 завершена: Локально: ✅, API: ❌
+2025-07-03 11:02:58,395 - data.courses - INFO - Запрос курсов с параметрами: {'level': 'INTERMEDIATE'}
+2025-07-03 11:02:58,396 - data.courses - ERROR - Неожиданная ошибка при фильтрации курсов: 'dict' object has no attribute 'api_client'
+2025-07-03 11:02:58,496 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 11:06:45,132 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-03 11:06:45,134 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-03 11:06:45,194 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-03 11:06:45,195 - __main__ - INFO - Webhook установлен на: https://3f14-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-03 11:06:45,196 - telegram.ext.Application - INFO - Application started
+2025-07-03 11:06:45,197 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-03 11:06:45,198 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-03 11:06:46,303 - __main__ - INFO - Остановка PTB приложения...
+2025-07-03 11:06:46,304 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-03 11:06:46,304 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-03 11:06:46,365 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-03 11:06:46,366 - __main__ - INFO - PTB приложение остановлено.
+2025-07-03 11:06:47,739 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-03 11:06:47,742 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-03 11:06:47,811 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-03 11:06:47,812 - __main__ - INFO - Webhook установлен на: https://3f14-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-03 11:06:47,813 - telegram.ext.Application - INFO - Application started
+2025-07-03 11:06:47,814 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-03 11:06:47,814 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-03 11:06:50,122 - data.user_storage - INFO - Создан новый пользователь: 1036822116
+2025-07-03 11:06:50,282 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-03 11:06:51,104 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 11:06:51,183 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 11:06:52,158 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 11:06:52,159 - data.user_storage - INFO - Добавлен фильтр difficulty:Средний для пользователя 1036822116
+2025-07-03 11:06:52,246 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 11:06:53,265 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 11:06:53,406 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 11:06:53,750 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 11:06:53,853 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 11:06:53,854 - bot.handlers - INFO - Пользователь 1036822116 сохранил фильтры, запускаем упаковку данных
+2025-07-03 11:06:54,001 - bot.handlers - INFO - Упаковка данных пользователя 1036822116 завершена: Локально: ✅, API: ❌
+2025-07-03 11:06:54,002 - data.courses - INFO - Запрос курсов с параметрами: {'level': 'INTERMEDIATE'}
+2025-07-03 11:06:54,002 - data.courses - ERROR - Неожиданная ошибка при фильтрации курсов: 'dict' object has no attribute 'api_client'
+2025-07-03 11:06:54,082 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 12:07:05,979 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-03 12:07:06,875 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 12:07:07,063 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 12:07:07,614 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 12:07:07,614 - data.user_storage - INFO - Добавлен фильтр grade:11 для пользователя 1036822116
+2025-07-03 12:07:07,745 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 12:07:08,215 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 12:07:08,370 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 12:07:08,877 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 12:07:08,962 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 12:07:08,963 - bot.handlers - INFO - Пользователь 1036822116 сохранил фильтры, запускаем упаковку данных
+2025-07-03 12:07:09,127 - bot.handlers - INFO - Упаковка данных пользователя 1036822116 завершена: Локально: ✅, API: ❌
+2025-07-03 12:07:09,128 - data.courses - INFO - Запрос курсов с параметрами: {'level': 'INTERMEDIATE', 'grade_id': 5}
+2025-07-03 12:07:09,128 - data.courses - ERROR - Неожиданная ошибка при фильтрации курсов: 'dict' object has no attribute 'api_client'
+2025-07-03 12:07:09,212 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 12:21:37,703 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-03 12:21:37,705 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-03 12:21:37,770 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-03 12:21:37,772 - __main__ - INFO - Webhook установлен на: https://3f14-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-03 12:21:37,773 - telegram.ext.Application - INFO - Application started
+2025-07-03 12:21:37,773 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-03 12:21:37,773 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-03 12:21:41,383 - __main__ - INFO - Остановка PTB приложения...
+2025-07-03 12:21:41,384 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-03 12:21:41,384 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-03 12:21:41,445 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-03 12:21:41,447 - __main__ - INFO - PTB приложение остановлено.
+2025-07-03 12:23:13,863 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-03 12:23:13,866 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-03 12:23:13,926 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-03 12:23:13,928 - __main__ - INFO - Webhook установлен на: https://3f14-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-03 12:23:13,929 - telegram.ext.Application - INFO - Application started
+2025-07-03 12:23:13,929 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-03 12:23:13,930 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-03 12:25:32,791 - data.user_storage - INFO - Создан новый пользователь: 1036822116
+2025-07-03 12:25:33,005 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-03 12:25:34,466 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 12:25:34,553 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 12:25:35,035 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 12:25:35,036 - data.user_storage - INFO - Добавлен фильтр difficulty:Средний для пользователя 1036822116
+2025-07-03 12:25:35,113 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 12:25:35,664 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 12:25:35,785 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 12:25:36,264 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 12:25:36,356 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 12:25:36,357 - bot.handlers - INFO - User 1036822116 saved filters, starting data packaging...
+2025-07-03 12:25:36,506 - bot.handlers - INFO - Packaging for user 1036822116 complete. Local: ❌, API: ❌
+2025-07-03 12:25:36,506 - data.courses - INFO - Запрос курсов с параметрами: {'level': 'INTERMEDIATE'}
+2025-07-03 12:25:36,653 - api.client - ERROR - Ошибка API запроса: 422 Client Error: Unprocessable Entity for url: http://82.202.138.172:8000/api/courses/?level=INTERMEDIATE
+2025-07-03 12:25:36,654 - data.courses - ERROR - Ошибка API при фильтрации курсов: Не удалось получить курсы: 422 Client Error: Unprocessable Entity for url: http://82.202.138.172:8000/api/courses/?level=INTERMEDIATE
+2025-07-03 12:25:36,781 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 12:36:28,958 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-03 12:36:28,962 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-03 12:36:29,022 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-03 12:36:29,023 - __main__ - INFO - Webhook установлен на: https://3f14-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-03 12:36:29,024 - telegram.ext.Application - INFO - Application started
+2025-07-03 12:36:29,025 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-03 12:36:29,026 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-03 12:36:32,137 - __main__ - INFO - Остановка PTB приложения...
+2025-07-03 12:36:32,137 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-03 12:36:32,138 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-03 12:36:32,196 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-03 12:36:32,197 - __main__ - INFO - PTB приложение остановлено.
+2025-07-03 12:36:33,638 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-03 12:36:33,641 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-03 12:36:33,704 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-03 12:36:33,705 - __main__ - INFO - Webhook установлен на: https://3f14-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-03 12:36:33,706 - telegram.ext.Application - INFO - Application started
+2025-07-03 12:36:33,707 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-03 12:36:33,707 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-03 12:36:39,280 - data.user_storage - INFO - Создан новый пользователь: 1036822116
+2025-07-03 12:36:39,434 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-03 12:36:40,110 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 12:36:40,192 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 12:36:40,674 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 12:36:40,674 - data.user_storage - INFO - Добавлен фильтр difficulty:Средний для пользователя 1036822116
+2025-07-03 12:36:40,773 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 12:36:41,418 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 12:36:41,527 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 12:36:41,979 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 12:36:37,498 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 12:36:37,499 - bot.handlers - INFO - User 1036822116 saved filters, starting data packaging...
+2025-07-03 12:36:44,938 - utils.packager - ERROR - Ошибка при отправке в API: 404 - {"detail":"Not Found"}
+2025-07-03 12:36:44,938 - bot.handlers - INFO - Packaging for user 1036822116 complete. Local: ❌, API: ❌
+2025-07-03 12:36:44,938 - data.courses - INFO - Запрос курсов с параметрами: {'level': 'INTERMEDIATE'}
+2025-07-03 12:36:45,078 - api.client - ERROR - Ошибка API запроса: 422 Client Error: Unprocessable Entity for url: http://82.202.138.172:8000/api/courses/?level=INTERMEDIATE
+2025-07-03 12:36:45,079 - data.courses - ERROR - Ошибка API при фильтрации курсов: Не удалось получить курсы: 422 Client Error: Unprocessable Entity for url: http://82.202.138.172:8000/api/courses/?level=INTERMEDIATE
+2025-07-03 12:36:45,160 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 12:48:54,669 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-03 12:48:54,672 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-03 12:48:54,735 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-03 12:48:54,736 - __main__ - INFO - Webhook установлен на: https://3f14-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-03 12:48:54,736 - telegram.ext.Application - INFO - Application started
+2025-07-03 12:48:54,737 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-03 12:48:54,737 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-03 12:49:12,496 - __main__ - INFO - Остановка PTB приложения...
+2025-07-03 12:49:12,505 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-03 12:49:12,509 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-03 12:49:12,701 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-03 12:49:12,703 - __main__ - INFO - PTB приложение остановлено.
+2025-07-03 12:49:14,137 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/getMe "HTTP/1.1 200 OK"
+2025-07-03 12:49:14,139 - __main__ - INFO - PTB приложение инициализировано.
+2025-07-03 12:49:14,209 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/setWebhook "HTTP/1.1 200 OK"
+2025-07-03 12:49:14,212 - __main__ - INFO - Webhook установлен на: https://3f14-2a14-1e00-1-52f-00-1377.ngrok-free.app/webhook
+2025-07-03 12:49:14,215 - telegram.ext.Application - INFO - Application started
+2025-07-03 12:49:14,215 - __main__ - INFO - PTB приложение запущено в Docker контейнере.
+2025-07-03 12:49:14,216 - __main__ - INFO - Упаковщик настроен для работы по требованию (при сохранении фильтров)
+2025-07-03 12:49:28,938 - data.user_storage - INFO - Создан новый пользователь: 1036822116
+2025-07-03 12:49:29,117 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/sendMessage "HTTP/1.1 200 OK"
+2025-07-03 12:49:29,879 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 12:49:29,953 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 12:49:30,420 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 12:49:30,421 - data.user_storage - INFO - Добавлен фильтр difficulty:Средний для пользователя 1036822116
+2025-07-03 12:49:30,497 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 12:49:30,953 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 12:49:31,037 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 12:49:31,327 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-03 12:49:31,408 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
+2025-07-03 12:49:31,409 - bot.handlers - INFO - User 1036822116 saved filters, starting data packaging...
+2025-07-03 12:49:31,557 - bot.handlers - INFO - Packaging for user 1036822116 complete. Local: ❌, API: ❌
+2025-07-03 12:49:31,557 - data.courses - INFO - Запрос курсов с параметрами: {'level': 'INTERMEDIATE'}
+2025-07-03 12:49:31,700 - api.client - ERROR - Ошибка API запроса: 422 Client Error: Unprocessable Entity for url: http://82.202.138.172:8000/api/courses/?level=INTERMEDIATE
+2025-07-03 12:49:31,701 - data.courses - ERROR - Ошибка API при фильтрации курсов: Не удалось получить курсы: 422 Client Error: Unprocessable Entity for url: http://82.202.138.172:8000/api/courses/?level=INTERMEDIATE
+2025-07-03 12:49:31,792 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7220067496:AAE8n4VeQi-kyNX5vY2mqVF_DIuBEbzlhg0/editMessageText "HTTP/1.1 200 OK"
